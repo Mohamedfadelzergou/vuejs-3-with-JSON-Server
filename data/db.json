@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "Learn angular",
+      "slug": "learn-angular",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis doloribus quis quam nulla, nihil dignissimos rerum, doloremque tempora perferendis est nostrum tempore corrupti libero commodi quae voluptate qui delectus voluptatum!"
+    },
+    {
+      "id": 4,
+      "title": "Learn Flutter",
+      "slug": "learn-laravel",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis doloribus quis quam nulla, nihil dignissimos rerum, doloremque tempora perferendis est nostrum tempore corrupti libero commodi quae voluptate qui delectus voluptatum!"
+    },
+    {
+      "title": "learn seo",
+      "content": "Formation Seo and Fallow-up",
+      "id": 8
+    },
+    {
+      "title": "learn VUEJS",
+      "content": "formation vuejs",
+      "id": 9
+    }
+  ],
+  "users": []
+}
